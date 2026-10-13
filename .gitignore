@@ -1,0 +1,15 @@
+# Dane osobiste i ustawienia użytkownika (zostają tylko lokalnie)
+ustawienia.json
+lena_klucz.txt
+lena_klucz.txt.tmp
+slownik_uzytkownika.txt
+kopie_robocze/
+
+# Python
+__pycache__/
+*.pyc
+
+# Pliki tymczasowe / systemowe
+*.tmp
+Thumbs.db
+.vscode/
